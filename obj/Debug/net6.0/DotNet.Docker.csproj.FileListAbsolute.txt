@@ -1,0 +1,15 @@
+/home/ishfaq/Desktop/MyApp/bin/Debug/net6.0/DotNet.Docker
+/home/ishfaq/Desktop/MyApp/bin/Debug/net6.0/DotNet.Docker.deps.json
+/home/ishfaq/Desktop/MyApp/bin/Debug/net6.0/DotNet.Docker.runtimeconfig.json
+/home/ishfaq/Desktop/MyApp/bin/Debug/net6.0/DotNet.Docker.dll
+/home/ishfaq/Desktop/MyApp/bin/Debug/net6.0/DotNet.Docker.pdb
+/home/ishfaq/Desktop/MyApp/obj/Debug/net6.0/DotNet.Docker.csproj.AssemblyReference.cache
+/home/ishfaq/Desktop/MyApp/obj/Debug/net6.0/DotNet.Docker.GeneratedMSBuildEditorConfig.editorconfig
+/home/ishfaq/Desktop/MyApp/obj/Debug/net6.0/DotNet.Docker.AssemblyInfoInputs.cache
+/home/ishfaq/Desktop/MyApp/obj/Debug/net6.0/DotNet.Docker.AssemblyInfo.cs
+/home/ishfaq/Desktop/MyApp/obj/Debug/net6.0/DotNet.Docker.csproj.CoreCompileInputs.cache
+/home/ishfaq/Desktop/MyApp/obj/Debug/net6.0/DotNet.Docker.dll
+/home/ishfaq/Desktop/MyApp/obj/Debug/net6.0/refint/DotNet.Docker.dll
+/home/ishfaq/Desktop/MyApp/obj/Debug/net6.0/DotNet.Docker.pdb
+/home/ishfaq/Desktop/MyApp/obj/Debug/net6.0/DotNet.Docker.genruntimeconfig.cache
+/home/ishfaq/Desktop/MyApp/obj/Debug/net6.0/ref/DotNet.Docker.dll
